@@ -1,0 +1,39 @@
+header {
+    height: 900px;
+    background: linear-gradient(180deg, #EDA418 47.4%, rgba(237, 164, 24, 0) 100%);
+
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.menu ul {
+    display: flex;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    justify-content: space-between;
+    width: 500px;
+    margin-right: 150px;
+
+
+}
+.glavna{
+    font-family: Montserrat;
+font-size: 25px;
+font-weight: 700;
+line-height: 30.48px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}

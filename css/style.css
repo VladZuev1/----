@@ -24,16 +24,41 @@ header {
     justify-content: space-between;
     width: 500px;
     margin-right: 150px;
-
+    
 
 }
-.glavna{
+
+.dostavka{
     font-family: Montserrat;
-font-size: 25px;
-font-weight: 700;
-line-height: 30.48px;
+font-size: 32px;
+font-weight: 800;
+line-height: 39.01px;
 text-align: left;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
+width: 572px;
+height: 63px;
+top: 367px;
+left: 130px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.zakaz{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.5px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 497px;
+height: 35px;
+top: 459px;
+left: 130px;
+gap: 0px;
+opacity: 0px;
+
 
 }
